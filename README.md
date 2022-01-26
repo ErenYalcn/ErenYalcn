@@ -35,7 +35,7 @@
 </h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErenYalcn-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Eren's Public Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErenYalcn&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Eren's Public Github Stats">
 </p>  
 
 <br/>
