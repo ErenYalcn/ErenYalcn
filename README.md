@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Eren Yalçın </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57539683/151035737-4ff1f13a-1079-412c-97a7-c82fffca79ae.jpg"  />
+<img src="https://user-images.githubusercontent.com/57539683/157871791-67209703-ff03-4d32-af61-0cd02da32d40.jpg"  />
 </p>
 <br/>
 
